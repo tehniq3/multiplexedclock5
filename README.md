@@ -1,2 +1,7 @@
 # multiplexedclock5
 based on http://nicuflorica.blogspot.com/2017/09/ceas-cu-reglaj-manual-al-orei-si-datei.html
+
+![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRx103UDVP4_YIZoK_x9Wk2dWKcuKKpMpu34ropgpymukaCH0FcvQh_IorOwszl0rSN7bXF6jlqTigFuOouG3NLW272hbcLYABOTISgZioeoVv61dukrL2FwBH4Q8CtbvtiPM5yxDBx_QwS7c_mrjpa7xcA1x9tSlngQoLtS2XTnAqn_sooc6BY5oJbw/s1170/Schematic_Ceas-LED-7-Segmente-1__Digit-3-intors_V3_2022_zvonacfirst.png)
+
+![ceas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ3RuGoCXhJdqbUnpH9SurIYl-u99Hp58TfhCiyFKpZdwpZ0zR6xsessytOPa9l44oM7bKAWnjwOZ3wSb9vc1bHiOA_52uOj9BFX2wKbuu01ncQCwMenn2nWoFDmriWUOImZ0cnM-6xMQkXFRRHf9jiuZ9NWUxmEamk6mexP1qazyuHxr1WaTjdA33ow/w200-h150/ceas_ora.jpg)
+![randare](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmnHuyb93EzDeIwGOn0ZEqcr9HRjX03_Tbcnj1nKwU9UldVTF_uw9B42ccPRdf4MLJ-t5xW1E_X_YwZFBBQ4B9lHpMp4kK92OM19SJGyDLDntnV-WlQU4aWexljWyZpVdD7WT9sPBy9QlUy_mdYPp1ACqKBg-e7I55-ZfHlWoyy-F6mSUCSQNFrcH7bg/w200-h91/ceas_3D_2.png)
