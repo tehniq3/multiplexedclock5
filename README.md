@@ -1,6 +1,8 @@
 # multiplexedclock5
 based on http://nicuflorica.blogspot.com/2017/09/ceas-cu-reglaj-manual-al-orei-si-datei.html
 
+actual article: http://nicuflorica.blogspot.com/2022/12/ceas-cu-reglaj-manual-al-orei-si-datei.html
+
 ![ceas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ3RuGoCXhJdqbUnpH9SurIYl-u99Hp58TfhCiyFKpZdwpZ0zR6xsessytOPa9l44oM7bKAWnjwOZ3wSb9vc1bHiOA_52uOj9BFX2wKbuu01ncQCwMenn2nWoFDmriWUOImZ0cnM-6xMQkXFRRHf9jiuZ9NWUxmEamk6mexP1qazyuHxr1WaTjdA33ow/w200-h150/ceas_ora.jpg)
 ![real2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNwV0bcbahBeMWj_cYOLqhQTbtxsvNJaBTg1GuJuOVOnAowhTWmmDbzpNJS9WDfMuuiHZOJwdt1ds7N3LTBreCUZ_qnfMRRKKD9SPVFq_esHmDU5umGdtx6n7FPA1mOU2a714HskBhDxVT4TrFpcuDtjpc4IS8yJ82UObUmeIhOIV2B6aSmI7p7OVCkA/s320/ceas_real_2.jpg)
 
